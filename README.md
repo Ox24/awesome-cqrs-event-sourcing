@@ -28,6 +28,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Entry-level, synchonous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/)
 - [Event Sourcing vs Command Sourcing](http://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
 - [A Whole System Based on Event Sourcing is an Anti-Pattern](https://www.infoq.com/news/2016/04/event-sourcing-anti-pattern)
+- [Event Sourcing in the Wild](https://de.slideshare.net/michieltcs/cqrs-event-sourcing-in-the-wild)
 
 ## Domain Events
 
@@ -73,6 +74,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Broadway Examples](https://github.com/qandidate-labs/broadway/tree/master/examples)
 - [Buttercup.Protects](http://buttercup-php.github.io/protects/)
 - [EventCentric.Core](https://github.com/event-centric/EventCentric.Core)
+- [Event Sourcing Using Kafka](https://www.youtube.com/watch?v=HLfl2ccS304)
 
 ## Tools
 
